@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable import/default */
 import ReactDOM from 'react-dom/client';
 import './index.css';
